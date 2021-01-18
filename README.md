@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🧐 前端
 - 🏫 GDUT 大三在读
-- 🏠 Site:https://makeryi.top
+- 🏠 Site:makeryi.top
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=MAKERYI&show_icons=true&theme=dracula) 
