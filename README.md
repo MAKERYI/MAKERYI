@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 GDUT
 - 🧐 前端
-- 🏠 https://makeryi.top
+- 🏠 (Site)[https://makeryi.top)  
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=MAKERYI&show_icons=true&theme=radical) 
